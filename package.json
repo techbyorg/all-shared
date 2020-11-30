@@ -1,0 +1,11 @@
+{
+  "name": "all-shared",
+  "private": true,
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
