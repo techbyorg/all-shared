@@ -1,1 +1,1 @@
-export * from './lib/fragments.js'
+export * from './lib/fragments.mjs'
